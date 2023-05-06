@@ -1,0 +1,6 @@
+hola mundo
+probando la opci¢n "copy con hoja_03.txt" 
+as¡ se cre¢ ‚ste archivo hoja_03.txt y todo ‚ste texto
+con enter bajamos a otra l¡nea
+con ctrl + z se guarda
+
